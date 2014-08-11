@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Object>
+    <Transform x="100" y="100"/>
+    <Health health="3" maxHealth="3"/>
+    <Renderer>
+      <Animation TextureID ="player" width="128" height="86" numFrames="6"/>
+      <Animation AnimationID ="1" TextureID ="player" width="32" height="32"/>
+    </Renderer>
+    <Controller/>
+  </Object>
+</root>

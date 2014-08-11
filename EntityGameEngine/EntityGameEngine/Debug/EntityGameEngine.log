@@ -1,0 +1,9 @@
+﻿Build started 8/8/2014 7:57:18 PM.
+     1>Project "C:\SDL\EntityGameEngine\EntityGameEngine\EntityGameEngine.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         EntityGameEngine.vcxproj -> C:\SDL\EntityGameEngine\Debug\EntityGameEngine.exe
+     1>Done Building Project "C:\SDL\EntityGameEngine\EntityGameEngine\EntityGameEngine.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.06
